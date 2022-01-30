@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "clean-pottery-308515",
+  "private_key_id": "06e93a6bc86c71ec9e9019c3d0ecefc51f5e3dc7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPtGjdM14ouX6p\nEu3cf0caCPgL3DSn3tkFx3ztxOtbvyAFPqwE8bRruIwP0hInPcq7AWS+F9imOZGQ\nJN1gPkgSiBrwFHEkHvOhbV2bhVXNaEYyylpc8Q3K5NjVCVupiLZ3eiRMjNGs7eYb\nyiVqLK4Ajp8dmOHdiJPXhkrxEEXxf2OmP+A47XQ8UX4SMBLQwRGOc96a++Uh1NXt\nH3Fi2fXQ4nuDXIQMP9VHsPCFMV4YCMgu4f7iK/70hMiq48hTL/TTKCTCtiH0mQn2\nHLIBYUPhOfpi68g9IG7JnuDNpkPGomXrLe0VJN4VeQzmMNW1iZ5xZtyg2RNOmLt5\nKjkUDaKBAgMBAAECggEABhFMoO2fugvVLeY+KZtUPef2Kw6HQUIqz9boiN+gSoFW\nU6DlkI1pCl6NROcLnbbZ5cWgJkd3DkAPRwk0qFuZamUseEf4mCgJUPVrbyAhhgse\nRdyQcDegggVWaj7IPTcfsXTRe6T/eRBIERbCKgxdFuoTrt8o9fpH61tidBFYIbpb\n6hrXDgM++GGcK3DZPwDe2UvLWc865Zs8lISPGkK9vYbxdbT+CIE7cXAGE9l85I5h\nz/qNedisDiuuRImN0VPFEpIDOZOStxPYjSd4+OBc+8S7BTPIixYZEe/Ke+46tx/s\nnlDxZzUAAsTCd4mH9lmqgK8/CAw0t6vtCroL1Q1NYQKBgQD+3/hkS7N/u16zQorO\nFcstXMY3DYkkTb4t1HryNZAhTMBNii4OnG1BQbaF5U6nIfIznZG3naxGkIGdMjmu\n+Xs9HzCTMO+dSLtFSsiRHvaRhDVSJKBOgCkbMGiaWtXB/IEPQnvDu6qDhwROME6m\nYeo3v/WxqdrLC0AK+hNaVbcXmQKBgQDQnyIWyjgm9vE/Z628Bm2FO7AbzhbczAwz\nqYFyblzAOOS9GL604rdft7ESMCgl34UubUuJmrnmaP7D8hpOc6Kcx9AEFeoMPVdu\n0sWR5Rz1muZ3LaxjFzSudEINhcYOvwNagSyu6YDgb//YaUOqBvxrqR5NOUjta073\naZ23FV6TKQKBgQCR2pnKy4dtEUygSPQl+1LKIs1Ls/NHUzYCBBZXhU91vvZNaUXy\nFpJvRaut9AuOmV6BKyq4aQKtXwTNcHCSMTLVR4QEt3xoBbclcCZW5eE0ZPQejdcv\nFShw5sL1kgXBfT5d/S3WVQ6/NgTAueRIUsA2JyPzB8CtcUK1BWcNyv98AQKBgGfs\njee6bsSCSWVjeXlr3kz7kdwYCu2MvBtUOkbN0Wh0LwY/+GhVdDG7aPr9gFJ1iXu6\nOGHg8PBlp1vnE9G26u+c3fPbEs9sE00CtCbcclOrCVmfJ/voyHaLNYhU9nfMEZiZ\nNrAfY/Lp+BJPRcTCXCYphg3EFp8m0JyRQV69x3IZAoGAUdE/tKUHqox+hRzyLNW+\nY5EaF0DAkuvfCZ8W7igbe1mg7CaPJANEDjPrAt3uuzB0xJfCwtm13NVQ5IS94p/c\ngQmhnsg1d73H33FheERz6a9+xkyx1xBDQU82XPANbA+U1XSiO6SpUxOFASvezksU\nJaQBCMwMkg23nC+twQQQq6M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "automation-project@clean-pottery-308515.iam.gserviceaccount.com",
+  "client_id": "100606856158798603700",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/automation-project%40clean-pottery-308515.iam.gserviceaccount.com"
+}
